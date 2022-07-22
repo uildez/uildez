@@ -1,32 +1,56 @@
-👋 Hi, i'm Uildes Demétrio
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning PHP and React Js
-- 💞️ I’m looking to collaborate on projects that make the world better and help people.
+<img align="right" height="590em" src="https://i.imgur.com/1yUeojP.png"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Uildes Demétrio</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uildez&color=red" alt="Profile views" /> </p>
 
- <div>
-  <a href="https://github.com/uildez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uildez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uildez&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+- 🔥 Web Developer & student of System of Internet focused on Front-end and build a better world through technology 
 
-<div style="display: inline_block; text-align: center;"><br>
-  <img align="center" alt="Uildez-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Uildez-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Uildez-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Uildez-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Uildez-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Uildez-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Uildez-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
-  ##
- 
-<div style="text-align: center;"> 
-  <a href="https://instagram.com/uildez" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:uildesdacosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/uildes-dem%C3%A9trio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
- 
- <div>
-    ![Snake animation](https://github.com/uildez/uildez/blob/output/github-contribution-grid-snake.svg)
- </div>
+- 🔭 I’m currently working as Freelancer 
+
+- 💬 Studying about **Typescript, Cypress, Node.Js**
+
+- ⚡ Fun fact **Oneye 😜**
+
+<!-- - 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev) -->
+
+<!--
+
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+
+
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=uildez&show_icons=true&theme=monokai" alt="uildez's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uildez&layout=compact&theme=monokai" alt="uildez's most languages"/>
+</p>
+-->
+
+<br><br>
+
+## Contact
+
+<p align="left" style="background:yellow">
+<a href="https://www.linkedin.com/in/uildes-dem%C3%A9trio" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-uildez-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="mailto:uildesdacosta@gmail.com" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+</a>
+</p>
