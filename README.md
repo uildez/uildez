@@ -26,10 +26,10 @@
 <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/>&nbsp;
 <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/>&nbsp;
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>&nbsp;
 
 
 <br><br>
@@ -50,6 +50,9 @@
   <img align="center" src="https://img.shields.io/badge/-uildez-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="mailto:uildesdacosta@gmail.com" target="_blank">
- <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+ <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="gmail"/>
+</a>
+  <a href="wa.me/55987830715" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="gmail"/>
 </a>
 </p>
