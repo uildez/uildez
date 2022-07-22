@@ -8,28 +8,28 @@
 
 - 💬 Studying about **Typescript, Cypress, Node.Js**
 
-- ⚡ Fun fact **Oneye 😜**
 
-<!-- - 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev) -->
 
-<!--
+<!-- - 👨‍💻 More at []() -->
+
+
 
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-
+<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>&nbsp;
+<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>&nbsp;
+<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/>&nbsp;
+<img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react"/>&nbsp;
+<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>&nbsp;
+<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/>&nbsp;
+<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/>&nbsp;
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>&nbsp;
 
 
 <br><br>
@@ -40,7 +40,6 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=uildez&show_icons=true&theme=monokai" alt="uildez's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uildez&layout=compact&theme=monokai" alt="uildez's most languages"/>
 </p>
--->
 
 <br><br>
 
