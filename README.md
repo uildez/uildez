@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as Freelancer 
 
-- 💬 Studying about **Typescript, Cypress, Node.Js**
+- 💬 Studying about **Typescript, Jest, Node.Js**
 
 
 
