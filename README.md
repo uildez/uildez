@@ -1,58 +1,37 @@
-<img align="right" height="590em" src="https://i.imgur.com/1yUeojP.png"/>
+
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Uildes Demétrio</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uildez&color=red" alt="Profile views" /> </p>
 
-- 🔥 Web Developer & student of System of Internet focused on Front-end and build a better world through technology 
+My name is Uildes Demétrio and I'm a Front-end Web (focusing on UI/UX Design) from Brazil!<br>
+I'm an open-minded and creative person, I'm always searching for new and better possibilities to build a better world through technology.
 
-- 🔭 I’m currently working as Freelancer 
-
-- 💬 Studying about **Typescript, Jest, Node.Js**
-
-
-
-<!-- - 👨‍💻 More at []() -->
-
-
-
-<br><br>
-
-## 🛠 &nbsp;Tech Stack
-
-<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>&nbsp;
-<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>&nbsp;
-<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/>&nbsp;
-<img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react"/>&nbsp;
-<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>&nbsp;
-<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/>&nbsp;
-<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/>&nbsp;
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>&nbsp;
-
-
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
+### About me:
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=uildez&show_icons=true&theme=monokai" alt="uildez's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uildez&layout=compact&theme=monokai" alt="uildez's most languages"/>
+  🗺️ I speak Portuguese (my native language), English (advanced).<br>
+  📱 I’m currently working as Freelancer <br>
+  📘 Studying about <strong>Typescript</strong>, <strong>Jest</strong>, <strong>Node.Js</strong>
+</p>  
+
+### Languages and Tools:
+<img src="https://skillicons.dev/icons?i=react,next,redux,js,ts,nodejs,mongodb,graphql,tailwind,html,css,git,github,photoshop,illustrator,figma&perline=8" /> 
+<br>
+
+### GitHub Analytics
+<p align="left">
+<img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uildez&layout=compact&theme=monokai" alt="uildez's most languages"/>
 </p>
 
-<br><br>
+<br>
 
-## Contact
-
+### Contact
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/uildes-dem%C3%A9trio" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-uildez-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" width="80rem" src="https://img.shields.io/badge/-uildez-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="mailto:uildesdacosta@gmail.com" target="_blank">
- <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="gmail"/>
+ <img align="center" width="70rem" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="gmail"/>
 </a>
   <a href="wa.me/55987830715" target="_blank">
- <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="gmail"/>
+ <img align="center" width="100rem" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="whatsapp"/>
 </a>
 </p>
